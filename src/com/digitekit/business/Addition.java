@@ -5,10 +5,7 @@ public class Addition {
 	public static void main(String[] args) {
 
 		addition();
-	}
-	//hjt
-	//fuck this shit
-	
+	}	
 	static void addition() {
 		 
 		int a = 30;
