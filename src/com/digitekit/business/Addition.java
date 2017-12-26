@@ -7,6 +7,8 @@ public class Addition {
 		addition();
 	}
 	//hjt
+	//fuck this shit
+	
 	static void addition() {
 		 
 		int a = 30;
